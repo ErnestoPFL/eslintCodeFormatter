@@ -1,0 +1,20 @@
+{
+  "name": "code-formatting",
+  "version": "1.0.0",
+  "description": "Eslint code formatting ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Eslintm",
+    "code",
+    "formatting",
+    "js"
+  ],
+  "author": "Ernest Ismanoviç",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.34.0"
+  }
+}
